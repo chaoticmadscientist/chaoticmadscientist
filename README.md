@@ -1,4 +1,6 @@
-My name is Bilge Ayşe Altınok and i'm biochemistry student in Turkey. I'm intersted in bioinformatics and phyton 
+Hullo :wave:
+
+My name is Bilge Ayşe Altınok and i'm biochemistry student in Turkey. I'm intersted in bioinformatics and phyton
 
 - 🌱 I’m currently learning python
 
