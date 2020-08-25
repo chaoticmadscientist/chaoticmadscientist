@@ -1,6 +1,6 @@
 # Hullo :wave:
 
-My name is Bilge Ayşe Altınok and i'm biochemistry student in Turkey. I'm intersted in bioinformatics and python
+My name is Bilge Ayşe Altınok and i'm biochemistry student in Turkey. I'm intersted in bioinformatics
 
 - 🌱 I’m currently learning python
 
